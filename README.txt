@@ -1,0 +1,5 @@
+Code for Assignment 2 is in file example-scene-components.js under the class Hogwarts_Studies.
+
+This animation shows a first-person view of the subject casting spells at a cupcake, making it increase/decrease in size, turning it into a rock, and accidentally turning it into a butterfly which then proceeds to fly out the window as the camera follows it to the window.
+
+My custom polygonal object exists as the class Cupcake in file example-shapes.js. The centerpoint of its bottom face is created at the origin point, and its initial topmost point is created at point (0,1.7,0). The radius of the bottom face is 0.7, and the radius of the edge between he top face and the side face is 1.0. The cupcake shape has an abrupt transition in a circumference between the top face and the side face as well as between the side face and the bottom face. 
